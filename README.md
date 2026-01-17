@@ -1,16 +1,50 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Senior+Solution+Architect+%26+Full-Stack+Engineer;Building+scalable+systems+that+solve+business+bottlenecks;8%2B+years+bridging+strategy+%26+engineering;Welcome+to+my+portfolio!" alt="Typing SVG" />
 
-<!--
-**iamscorefield/iamscorefield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamscorefield&label=Profile%20views&color=06B6D4&style=flat" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.iamscorefield.com"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://x.com/iamscorefield"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/iamscorefield"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/iamscorefield"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
+</p>
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamscorefield&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamscorefield&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamscorefield&theme=dracula" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamscorefield&theme=dracula&no-frame=true&margin-w=15&row=1" />
+</p>
+
+### 📌 Featured Repository
+
+This repo hosts my personal portfolio website — built with **Next.js + Tailwind CSS** and deployed on Vercel.  
+Live: https://www.iamscorefield.com
+
+Thanks for stopping by! 🚀
