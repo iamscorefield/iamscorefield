@@ -25,26 +25,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" />
 </p>
 
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamscorefield&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamscorefield&layout=compact&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamscorefield&theme=dracula" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamscorefield&theme=dracula&no-frame=true&margin-w=15&row=1" />
-</p>
-
 ### 📌 Featured Repository
 
 This repo hosts my personal portfolio website — built with **Next.js + Tailwind CSS** and deployed on Vercel.  
 Live: https://www.iamscorefield.com
 
-Thanks for stopping by! 🚀
+Thanks for stopping by! 🚀 @iamscorefield
