@@ -27,7 +27,10 @@
 
 ### 📌 Featured Repository
 
-This repo hosts my personal portfolio website — built with **Next.js + Tailwind CSS** and deployed on Vercel.  
+This repo hosts my personal portfolio website — built with **CMD, Next.js + Tailwind CSS** test on Localhost and deployed on Vercel.  
 Live: https://www.iamscorefield.com
 
-Thanks for stopping by! 🚀 @iamscorefield
+Thanks for stopping by! 🚀 
+
+@iamscorefield
+contact@dglobalgrowthfield.com
