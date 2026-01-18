@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Senior+Solution+Architect+%26+Full-Stack+Engineer;Building+scalable+systems+that+solve+business+bottlenecks;8%2B+years+bridging+strategy+%26+engineering;Welcome+to+my+portfolio!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Senior+Solution+Architect+%26+Full-Stack+Engineer;Building+scalable+digital+ecosystems;8%2B+years+bridging+strategy+%26+engineering;Welcome+to+my+portfolio!" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamscorefield&label=Profile%20views&color=06B6D4&style=flat" alt="Profile views" />
